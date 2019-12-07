@@ -504,21 +504,6 @@ GoogleSearchNext ( "/search?q=%E9%83%AD%E6%96%87%E8%B2%B4&ei=m_F4XZaiCazE0PEPvI2
 /** 
 
 /** */
-
-/*
-GoogleSearchFunV2 ( '郭文貴', ( err, data ) => {
-    if ( err ) {
-        return console.log ( err )
-    }
-    Fs.writeFile ( 'temp/googleSearchFirst.html', data, err => {
-        if ( err ) {
-
-            return console.log ( err )
-        }
-        return console.log ('success!')
-    })
-})
-/** */
 /*
 
 GoogleSearchNext ( "/search?q=%E9%83%AD%E6%96%87%E8%B2%B4&ei=6dBsXYriCIC_0PEPuZSQoAk&start=10&sa=N&ved=0ahUKEwjK-uW12rHkAhWAHzQIHTkKBJQQ8NMDCLMB", 
